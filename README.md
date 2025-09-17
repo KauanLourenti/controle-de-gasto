@@ -49,7 +49,7 @@ Garanta que você tenha o **Java (JDK) 17+** e o **Maven** instalados e configur
 
 **Passo 2: Clonagem do Repositório**
 ```bash
-git clone https://github.com/ZagoGiovanni/Controle-de-Gastos-SpringBoot-HTMX.git
+git clone https://github.com/KauanLourenti/controle-de-gasto.git
 cd seu-repositorio
 ```
 
@@ -81,4 +81,4 @@ Após a inicialização, a aplicação estará acessível em `http://localhost:8
 ```
 
 ### 🧑‍💻 Desenvolvedor
-Projeto desenvolvido por **Giovanni dos Santos Zago**.
+Projeto desenvolvido por **kauan de padua lourenti**.
